@@ -1,187 +1,156 @@
-{
-  "brands": [
-    {
-      "id": 1,
-      "name": "Nike",
-      "products": [
-        {
-          "id": "nike1",
-    
-          "productName": "Nike Air Max 270",
-          "graphicName": "air_max_270.png",
-          "costPrice": 80.0,
-          "msrp": 150.0,
-          "qtyOnHand": 100,
-          "qtyOnBackOrder": 5,
-          "description": "Classic Nike sneakers with Air Max cushioning."
-        },
-        {
-          "id": "nike2",
-       
-          "productName": "Nike Zoom Pegasus 38",
-          "graphicName": "zoom_pegasus_38.png",
-          "costPrice": 90.0,
-          "msrp": 120.0,
-          "qtyOnHand": 80,
-          "qtyOnBackOrder": 10,
-          "description": "Versatile running shoes with responsive cushioning."
-        },
-        {
-          "id": "nike3",
- 
-          "productName": "Nike React Infinity Run",
-          "graphicName": "react_infinity_run.png",
-          "costPrice": 100.0,
-          "msrp": 160.0,
-          "qtyOnHand": 120,
-          "qtyOnBackOrder": 0,
-          "description": "Running shoes designed for stability and comfort."
-        },
-        {
-          "id": "nike4",
-      
-          "productName": "Nike Air Force 1",
-          "graphicName": "air_force_1.png",
-          "costPrice": 70.0,
-          "msrp": 100.0,
-          "qtyOnHand": 150,
-          "qtyOnBackOrder": 0,
-          "description": "Iconic sneakers with timeless style."
-        },
-        {
-          "id": "nike5",
-        
-          "productName": "Nike Free RN",
-          "graphicName": "free_rn.png",
-          "costPrice": 60.0,
-          "msrp": 90.0,
-          "qtyOnHand": 90,
-          "qtyOnBackOrder": 15,
-          "description": "Lightweight running shoes for a natural feel."
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Adidas",
-      "products": [
-        {
-          "id": "adidas1",
-    
-          "productName": "Adidas Ultraboost",
-          "graphicName": "ultraboost.png",
-          "costPrice": 120.0,
-          "msrp": 180.0,
-          "qtyOnHand": 80,
-          "qtyOnBackOrder": 5,
-          "description": "High-performance running shoes with responsive cushioning."
-        },
-        {
-          "id": "adidas2",
-        
-          "productName": "Adidas Stan Smith",
-          "graphicName": "stan_smith.png",
-          "costPrice": 80.0,
-          "msrp": 100.0,
-          "qtyOnHand": 120,
-          "qtyOnBackOrder": 0,
-          "description": "Classic tennis shoes with a clean and timeless design."
-        },
-        {
-          "id": "adidas3",
- 
-          "productName": "Adidas Superstar",
-          "graphicName": "superstar.png",
-          "costPrice": 90.0,
-          "msrp": 120.0,
-          "qtyOnHand": 100,
-          "qtyOnBackOrder": 8,
-          "description": "Iconic sneakers with a shell toe and leather upper."
-        },
-        {
-          "id": "adidas4",
-
-          "productName": "Adidas NMD",
-          "graphicName": "nmd.png",
-          "costPrice": 100.0,
-          "msrp": 150.0,
-          "qtyOnHand": 110,
-          "qtyOnBackOrder": 0,
-          "description": "Modern sneakers with a sock-like fit and Boost cushioning."
-        },
-        {
-          "id": "adidas5",
-      
-          "productName": "Adidas Gazelle",
-          "graphicName": "gazelle.png",
-          "costPrice": 70.0,
-          "msrp": 90.0,
-          "qtyOnHand": 70,
-          "qtyOnBackOrder": 12,
-          "description": "Classic suede sneakers with retro style."
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Puma",
-      "products": [
-        {
-          "id": "puma1",
-
-          "productName": "Puma Suede Classic",
-          "graphicName": "suede_classic.png",
-          "costPrice": 65.0,
-          "msrp": 80.0,
-          "qtyOnHand": 90,
-          "qtyOnBackOrder": 5,
-          "description": "Timeless sneakers with a suede upper and rubber sole."
-        },
-        {
-          "id": "puma2",
-      
-          "productName": "Puma RS-X",
-          "graphicName": "rsx.png",
-          "costPrice": 100.0,
-          "msrp": 130.0,
-          "qtyOnHand": 70,
-          "qtyOnBackOrder": 0,
-          "description": "Chunky sneakers with a retro-inspired design."
-        },
-        {
-          "id": "puma3",
-     
-          "productName": "Puma Future Rider",
-          "graphicName": "future_rider.png",
-          "costPrice": 75.0,
-          "msrp": 100.0,
-          "qtyOnHand": 110,
-          "qtyOnBackOrder": 3,
-          "description": "Sleek and lightweight sneakers with a sporty look."
-        },
-        {
-          "id": "puma4",
-        
-          "productName": "Puma Cali",
-          "graphicName": "cali.png",
-          "costPrice": 80.0,
-          "msrp": 100.0,
-          "qtyOnHand": 120,
-          "qtyOnBackOrder": 0,
-          "description": "Lifestyle sneakers with a platform sole and retro vibes."
-        },
-        {
-          "id": "puma5",
-      
-          "productName": "Puma Thunder",
-          "graphicName": "thunder.png",
-          "costPrice": 90.0,
-          "msrp": 120.0,
-          "qtyOnHand": 100,
-          "qtyOnBackOrder": 6,
-          "description": "Chunky sneakers with a futuristic design and bold colors."
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "nike2",
+    "productName": "Nike Zoom Pegasus 38",
+    "graphicName": "zoom_pegasus_38.png",
+    "costPrice": 90.0,
+    "msrp": 120.0,
+    "qtyOnHand": 80,
+    "qtyOnBackOrder": 10,
+    "description": "Versatile running shoes with responsive cushioning.",
+    "name": "Nike"
+  },
+  {
+    "id": "nike3",
+    "productName": "Nike React Infinity Run",
+    "graphicName": "react_infinity_run.png",
+    "costPrice": 100.0,
+    "msrp": 160.0,
+    "qtyOnHand": 120,
+    "qtyOnBackOrder": 0,
+    "description": "Running shoes designed for stability and comfort.",
+    "name": "Nike"
+  },
+  {
+    "id": "nike4",
+    "productName": "Nike Air Force 1",
+    "graphicName": "air_force_1.png",
+    "costPrice": 70.0,
+    "msrp": 100.0,
+    "qtyOnHand": 150,
+    "qtyOnBackOrder": 0,
+    "description": "Iconic sneakers with timeless style.",
+    "name": "Nike"
+  },
+  {
+    "id": "nike5",
+    "productName": "Nike Free RN",
+    "graphicName": "free_rn.png",
+    "costPrice": 60.0,
+    "msrp": 90.0,
+    "qtyOnHand": 90,
+    "qtyOnBackOrder": 15,
+    "description": "Lightweight running shoes for a natural feel.",
+    "name": "Nike"
+  },
+  {
+    "id": "adidas1",
+    "productName": "Adidas Ultraboost",
+    "graphicName": "ultraboost.png",
+    "costPrice": 120.0,
+    "msrp": 180.0,
+    "qtyOnHand": 80,
+    "qtyOnBackOrder": 5,
+    "description": "High-performance running shoes with responsive cushioning.",
+    "name": "Adidas"
+  },
+  {
+    "id": "adidas2",
+    "productName": "Adidas Stan Smith",
+    "graphicName": "stan_smith.png",
+    "costPrice": 80.0,
+    "msrp": 100.0,
+    "qtyOnHand": 120,
+    "qtyOnBackOrder": 0,
+    "description": "Classic tennis shoes with a clean and timeless design.",
+    "name": "Adidas"
+  },
+  {
+    "id": "adidas3",
+    "productName": "Adidas Superstar",
+    "graphicName": "superstar.png",
+    "costPrice": 90.0,
+    "msrp": 120.0,
+    "qtyOnHand": 100,
+    "qtyOnBackOrder": 8,
+    "description": "Iconic sneakers with a shell toe and leather upper.",
+    "name": "Adidas"
+  },
+  {
+    "id": "adidas4",
+    "productName": "Adidas NMD",
+    "graphicName": "nmd.png",
+    "costPrice": 100.0,
+    "msrp": 150.0,
+    "qtyOnHand": 110,
+    "qtyOnBackOrder": 0,
+    "description": "Modern sneakers with a sock-like fit and Boost cushioning.",
+    "name": "Adidas"
+  },
+  {
+    "id": "adidas5",
+    "productName": "Adidas Gazelle",
+    "graphicName": "gazelle.png",
+    "costPrice": 70.0,
+    "msrp": 90.0,
+    "qtyOnHand": 70,
+    "qtyOnBackOrder": 12,
+    "description": "Classic suede sneakers with retro style.",
+    "name": "Adidas"
+  },
+  {
+    "id": "puma1",
+    "productName": "Puma Suede Classic",
+    "graphicName": "suede_classic.png",
+    "costPrice": 65.0,
+    "msrp": 80.0,
+    "qtyOnHand": 90,
+    "qtyOnBackOrder": 5,
+    "description": "Timeless sneakers with a suede upper and rubber sole.",
+    "name": "Puma"
+  },
+  {
+    "id": "puma2",
+    "productName": "Puma RS-X",
+    "graphicName": "rsx.png",
+    "costPrice": 100.0,
+    "msrp": 130.0,
+    "qtyOnHand": 70,
+    "qtyOnBackOrder": 0,
+    "description": "Chunky sneakers with a retro-inspired design.",
+    "name": "Puma"
+  },
+  {
+    "id": "puma3",
+    "productName": "Puma Future Rider",
+    "graphicName": "future_rider.png",
+    "costPrice": 75.0,
+    "msrp": 100.0,
+    "qtyOnHand": 110,
+    "qtyOnBackOrder": 3,
+    "description": "Sleek and lightweight sneakers with a sporty look.",
+    "name": "Puma"
+  },
+  {
+    "id": "puma4",
+    "productName": "Puma Cali",
+    "graphicName": "cali.png",
+    "costPrice": 80.0,
+    "msrp": 100.0,
+    "qtyOnHand": 120,
+    "qtyOnBackOrder": 0,
+    "description": "Lifestyle sneakers with a platform sole and retro vibes.",
+    "name": "Puma"
+  },
+  {
+    "id": "puma5",
+    "productName": "Puma Thunder",
+    "graphicName": "thunder.png",
+    "costPrice": 90.0,
+    "msrp": 120.0,
+    "qtyOnHand": 100,
+    "qtyOnBackOrder": 6,
+    "description": "Chunky sneakers with a futuristic design and bold colors.",
+    "name": "Puma"
+  }
+]
