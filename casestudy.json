@@ -1,0 +1,187 @@
+﻿{
+  "brands": [
+    {
+      "id": 1,
+      "name": "iPhone",
+      "products": [
+        {
+          "id": "iphone1",
+          "brandId": 1,
+          "productName": "iPhone 13",
+          "graphicName": "iphone_13.png",
+          "costPrice": 700.0,
+          "msrp": 999.0,
+          "qtyOnHand": 100,
+          "qtyOnBackOrder": 5,
+          "description": "The latest iPhone with advanced features."
+        },
+        {
+          "id": "iphone2",
+          "brandId": 1,
+          "productName": "iPhone 12 Pro",
+          "graphicName": "iphone_12_pro.png",
+          "costPrice": 600.0,
+          "msrp": 899.0,
+          "qtyOnHand": 80,
+          "qtyOnBackOrder": 10,
+          "description": "A high-end iPhone with professional-grade camera capabilities."
+        },
+        {
+          "id": "iphone3",
+          "brandId": 1,
+          "productName": "iPhone SE",
+          "graphicName": "iphone_se.png",
+          "costPrice": 300.0,
+          "msrp": 499.0,
+          "qtyOnHand": 150,
+          "qtyOnBackOrder": 0,
+          "description": "A budget-friendly iPhone with powerful performance."
+        },
+        {
+          "id": "iphone4",
+          "brandId": 1,
+          "productName": "iPhone 11",
+          "graphicName": "iphone_11.png",
+          "costPrice": 450.0,
+          "msrp": 699.0,
+          "qtyOnHand": 120,
+          "qtyOnBackOrder": 8,
+          "description": "A previous-generation iPhone with solid features."
+        },
+        {
+          "id": "iphone5",
+          "brandId": 1,
+          "productName": "iPhone XR",
+          "graphicName": "iphone_xr.png",
+          "costPrice": 350.0,
+          "msrp": 599.0,
+          "qtyOnHand": 90,
+          "qtyOnBackOrder": 15,
+          "description": "A popular iPhone with a large display."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "products": [
+        {
+          "id": "samsung1",
+          "brandId": 2,
+          "productName": "Samsung Galaxy S21",
+          "graphicName": "galaxy_s21.png",
+          "costPrice": 650.0,
+          "msrp": 899.0,
+          "qtyOnHand": 80,
+          "qtyOnBackOrder": 5,
+          "description": "The flagship Samsung phone with cutting-edge features."
+        },
+        {
+          "id": "samsung2",
+          "brandId": 2,
+          "productName": "Samsung Galaxy A52",
+          "graphicName": "galaxy_a52.png",
+          "costPrice": 300.0,
+          "msrp": 449.0,
+          "qtyOnHand": 120,
+          "qtyOnBackOrder": 0,
+          "description": "A mid-range Samsung phone with a sleek design."
+        },
+        {
+          "id": "samsung3",
+          "brandId": 2,
+          "productName": "Samsung Galaxy Note 20",
+          "graphicName": "galaxy_note20.png",
+          "costPrice": 550.0,
+          "msrp": 799.0,
+          "qtyOnHand": 100,
+          "qtyOnBackOrder": 10,
+          "description": "A Samsung phone with a large screen and S Pen support."
+        },
+        {
+          "id": "samsung4",
+          "brandId": 2,
+          "productName": "Samsung Galaxy M32",
+          "graphicName": "galaxy_m32.png",
+          "costPrice": 200.0,
+          "msrp": 299.0,
+          "qtyOnHand": 150,
+          "qtyOnBackOrder": 0,
+          "description": "An affordable Samsung phone with a big battery."
+        },
+        {
+          "id": "samsung5",
+          "brandId": 2,
+          "productName": "Samsung Galaxy S10 Lite",
+          "graphicName": "galaxy_s10_lite.png",
+          "costPrice": 400.0,
+          "msrp": 599.0,
+          "qtyOnHand": 90,
+          "qtyOnBackOrder": 8,
+          "description": "A lite version of Samsung's flagship phone from a previous generation."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel",
+      "products": [
+        {
+          "id": "pixel1",
+          "brandId": 3,
+          "productName": "Google Pixel 6",
+          "graphicName": "pixel_6.png",
+          "costPrice": 700.0,
+          "msrp": 899.0,
+          "qtyOnHand": 90,
+          "qtyOnBackOrder": 5,
+          "description": "The latest Google Pixel phone with an exceptional camera."
+        },
+        {
+          "id": "pixel2",
+          "brandId": 3,
+          "productName": "Google Pixel 5a",
+          "graphicName": "pixel_5a.png",
+          "costPrice": 400.0,
+          "msrp": 499.0,
+          "qtyOnHand": 110,
+          "qtyOnBackOrder": 0,
+          "description": "A mid-range Google Pixel phone with great battery life."
+        },
+        {
+          "id": "pixel3",
+          "brandId": 3,
+          "productName": "Google Pixel 4a",
+          "graphicName": "pixel_4a.png",
+          "costPrice": 300.0,
+          "msrp": 399.0,
+          "qtyOnHand": 80,
+          "qtyOnBackOrder": 10,
+          "description": "A budget-friendly Google Pixel phone with impressive camera capabilities."
+        },
+        {
+          "id": "pixel4",
+          "brandId": 3,
+          "productName": "Google Pixel 3",
+          "graphicName": "pixel_3.png",
+          "costPrice": 250.0,
+          "msrp": 349.0,
+          "qtyOnHand": 100,
+          "qtyOnBackOrder": 8,
+          "description": "A previous-generation Google Pixel phone with stock Android experience."
+        },
+        {
+          "id": "pixel5",
+          "brandId": 3,
+          "productName": "Google Pixel 2 XL",
+          "graphicName": "pixel_2_xl.png",
+          "costPrice": 200.0,
+          "msrp": 299.0,
+          "qtyOnHand": 70,
+          "qtyOnBackOrder": 15,
+          "description": "A larger variant of the Google Pixel 2 with a high-quality display."
+        }
+      ]
+    }
+  ]
+}
