@@ -9,6 +9,7 @@
 "qtyOnHand": 100,
 "qtyOnBackOrder": 5,
 "description": "Classic Nike sneakers with Air Max cushioning."
+     "name": "Nike"
   },
   {
     "id": "nike2",
