@@ -1,185 +1,185 @@
-﻿{
+{
   "brands": [
     {
       "id": 1,
-      "name": "iPhone",
+      "name": "Nike",
       "products": [
         {
-          "id": "iphone1",
-          "brandId": 1,
-          "productName": "iPhone 13",
-          "graphicName": "iphone_13.png",
-          "costPrice": 700.0,
-          "msrp": 999.0,
+          "id": "nike1",
+    
+          "productName": "Nike Air Max 270",
+          "graphicName": "air_max_270.png",
+          "costPrice": 80.0,
+          "msrp": 150.0,
           "qtyOnHand": 100,
           "qtyOnBackOrder": 5,
-          "description": "The latest iPhone with advanced features."
+          "description": "Classic Nike sneakers with Air Max cushioning."
         },
         {
-          "id": "iphone2",
-          "brandId": 1,
-          "productName": "iPhone 12 Pro",
-          "graphicName": "iphone_12_pro.png",
-          "costPrice": 600.0,
-          "msrp": 899.0,
+          "id": "nike2",
+       
+          "productName": "Nike Zoom Pegasus 38",
+          "graphicName": "zoom_pegasus_38.png",
+          "costPrice": 90.0,
+          "msrp": 120.0,
           "qtyOnHand": 80,
           "qtyOnBackOrder": 10,
-          "description": "A high-end iPhone with professional-grade camera capabilities."
+          "description": "Versatile running shoes with responsive cushioning."
         },
         {
-          "id": "iphone3",
-          "brandId": 1,
-          "productName": "iPhone SE",
-          "graphicName": "iphone_se.png",
-          "costPrice": 300.0,
-          "msrp": 499.0,
+          "id": "nike3",
+ 
+          "productName": "Nike React Infinity Run",
+          "graphicName": "react_infinity_run.png",
+          "costPrice": 100.0,
+          "msrp": 160.0,
+          "qtyOnHand": 120,
+          "qtyOnBackOrder": 0,
+          "description": "Running shoes designed for stability and comfort."
+        },
+        {
+          "id": "nike4",
+      
+          "productName": "Nike Air Force 1",
+          "graphicName": "air_force_1.png",
+          "costPrice": 70.0,
+          "msrp": 100.0,
           "qtyOnHand": 150,
           "qtyOnBackOrder": 0,
-          "description": "A budget-friendly iPhone with powerful performance."
+          "description": "Iconic sneakers with timeless style."
         },
         {
-          "id": "iphone4",
-          "brandId": 1,
-          "productName": "iPhone 11",
-          "graphicName": "iphone_11.png",
-          "costPrice": 450.0,
-          "msrp": 699.0,
-          "qtyOnHand": 120,
-          "qtyOnBackOrder": 8,
-          "description": "A previous-generation iPhone with solid features."
-        },
-        {
-          "id": "iphone5",
-          "brandId": 1,
-          "productName": "iPhone XR",
-          "graphicName": "iphone_xr.png",
-          "costPrice": 350.0,
-          "msrp": 599.0,
+          "id": "nike5",
+        
+          "productName": "Nike Free RN",
+          "graphicName": "free_rn.png",
+          "costPrice": 60.0,
+          "msrp": 90.0,
           "qtyOnHand": 90,
           "qtyOnBackOrder": 15,
-          "description": "A popular iPhone with a large display."
+          "description": "Lightweight running shoes for a natural feel."
         }
       ]
     },
     {
       "id": 2,
-      "name": "Samsung",
+      "name": "Adidas",
       "products": [
         {
-          "id": "samsung1",
-          "brandId": 2,
-          "productName": "Samsung Galaxy S21",
-          "graphicName": "galaxy_s21.png",
-          "costPrice": 650.0,
-          "msrp": 899.0,
+          "id": "adidas1",
+    
+          "productName": "Adidas Ultraboost",
+          "graphicName": "ultraboost.png",
+          "costPrice": 120.0,
+          "msrp": 180.0,
           "qtyOnHand": 80,
           "qtyOnBackOrder": 5,
-          "description": "The flagship Samsung phone with cutting-edge features."
+          "description": "High-performance running shoes with responsive cushioning."
         },
         {
-          "id": "samsung2",
-          "brandId": 2,
-          "productName": "Samsung Galaxy A52",
-          "graphicName": "galaxy_a52.png",
-          "costPrice": 300.0,
-          "msrp": 449.0,
+          "id": "adidas2",
+        
+          "productName": "Adidas Stan Smith",
+          "graphicName": "stan_smith.png",
+          "costPrice": 80.0,
+          "msrp": 100.0,
           "qtyOnHand": 120,
           "qtyOnBackOrder": 0,
-          "description": "A mid-range Samsung phone with a sleek design."
+          "description": "Classic tennis shoes with a clean and timeless design."
         },
         {
-          "id": "samsung3",
-          "brandId": 2,
-          "productName": "Samsung Galaxy Note 20",
-          "graphicName": "galaxy_note20.png",
-          "costPrice": 550.0,
-          "msrp": 799.0,
+          "id": "adidas3",
+ 
+          "productName": "Adidas Superstar",
+          "graphicName": "superstar.png",
+          "costPrice": 90.0,
+          "msrp": 120.0,
           "qtyOnHand": 100,
-          "qtyOnBackOrder": 10,
-          "description": "A Samsung phone with a large screen and S Pen support."
-        },
-        {
-          "id": "samsung4",
-          "brandId": 2,
-          "productName": "Samsung Galaxy M32",
-          "graphicName": "galaxy_m32.png",
-          "costPrice": 200.0,
-          "msrp": 299.0,
-          "qtyOnHand": 150,
-          "qtyOnBackOrder": 0,
-          "description": "An affordable Samsung phone with a big battery."
-        },
-        {
-          "id": "samsung5",
-          "brandId": 2,
-          "productName": "Samsung Galaxy S10 Lite",
-          "graphicName": "galaxy_s10_lite.png",
-          "costPrice": 400.0,
-          "msrp": 599.0,
-          "qtyOnHand": 90,
           "qtyOnBackOrder": 8,
-          "description": "A lite version of Samsung's flagship phone from a previous generation."
+          "description": "Iconic sneakers with a shell toe and leather upper."
+        },
+        {
+          "id": "adidas4",
+
+          "productName": "Adidas NMD",
+          "graphicName": "nmd.png",
+          "costPrice": 100.0,
+          "msrp": 150.0,
+          "qtyOnHand": 110,
+          "qtyOnBackOrder": 0,
+          "description": "Modern sneakers with a sock-like fit and Boost cushioning."
+        },
+        {
+          "id": "adidas5",
+      
+          "productName": "Adidas Gazelle",
+          "graphicName": "gazelle.png",
+          "costPrice": 70.0,
+          "msrp": 90.0,
+          "qtyOnHand": 70,
+          "qtyOnBackOrder": 12,
+          "description": "Classic suede sneakers with retro style."
         }
       ]
     },
     {
       "id": 3,
-      "name": "Google Pixel",
+      "name": "Puma",
       "products": [
         {
-          "id": "pixel1",
-          "brandId": 3,
-          "productName": "Google Pixel 6",
-          "graphicName": "pixel_6.png",
-          "costPrice": 700.0,
-          "msrp": 899.0,
+          "id": "puma1",
+
+          "productName": "Puma Suede Classic",
+          "graphicName": "suede_classic.png",
+          "costPrice": 65.0,
+          "msrp": 80.0,
           "qtyOnHand": 90,
           "qtyOnBackOrder": 5,
-          "description": "The latest Google Pixel phone with an exceptional camera."
+          "description": "Timeless sneakers with a suede upper and rubber sole."
         },
         {
-          "id": "pixel2",
-          "brandId": 3,
-          "productName": "Google Pixel 5a",
-          "graphicName": "pixel_5a.png",
-          "costPrice": 400.0,
-          "msrp": 499.0,
-          "qtyOnHand": 110,
-          "qtyOnBackOrder": 0,
-          "description": "A mid-range Google Pixel phone with great battery life."
-        },
-        {
-          "id": "pixel3",
-          "brandId": 3,
-          "productName": "Google Pixel 4a",
-          "graphicName": "pixel_4a.png",
-          "costPrice": 300.0,
-          "msrp": 399.0,
-          "qtyOnHand": 80,
-          "qtyOnBackOrder": 10,
-          "description": "A budget-friendly Google Pixel phone with impressive camera capabilities."
-        },
-        {
-          "id": "pixel4",
-          "brandId": 3,
-          "productName": "Google Pixel 3",
-          "graphicName": "pixel_3.png",
-          "costPrice": 250.0,
-          "msrp": 349.0,
-          "qtyOnHand": 100,
-          "qtyOnBackOrder": 8,
-          "description": "A previous-generation Google Pixel phone with stock Android experience."
-        },
-        {
-          "id": "pixel5",
-          "brandId": 3,
-          "productName": "Google Pixel 2 XL",
-          "graphicName": "pixel_2_xl.png",
-          "costPrice": 200.0,
-          "msrp": 299.0,
+          "id": "puma2",
+      
+          "productName": "Puma RS-X",
+          "graphicName": "rsx.png",
+          "costPrice": 100.0,
+          "msrp": 130.0,
           "qtyOnHand": 70,
-          "qtyOnBackOrder": 15,
-          "description": "A larger variant of the Google Pixel 2 with a high-quality display."
+          "qtyOnBackOrder": 0,
+          "description": "Chunky sneakers with a retro-inspired design."
+        },
+        {
+          "id": "puma3",
+     
+          "productName": "Puma Future Rider",
+          "graphicName": "future_rider.png",
+          "costPrice": 75.0,
+          "msrp": 100.0,
+          "qtyOnHand": 110,
+          "qtyOnBackOrder": 3,
+          "description": "Sleek and lightweight sneakers with a sporty look."
+        },
+        {
+          "id": "puma4",
+        
+          "productName": "Puma Cali",
+          "graphicName": "cali.png",
+          "costPrice": 80.0,
+          "msrp": 100.0,
+          "qtyOnHand": 120,
+          "qtyOnBackOrder": 0,
+          "description": "Lifestyle sneakers with a platform sole and retro vibes."
+        },
+        {
+          "id": "puma5",
+      
+          "productName": "Puma Thunder",
+          "graphicName": "thunder.png",
+          "costPrice": 90.0,
+          "msrp": 120.0,
+          "qtyOnHand": 100,
+          "qtyOnBackOrder": 6,
+          "description": "Chunky sneakers with a futuristic design and bold colors."
         }
       ]
     }
