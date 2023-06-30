@@ -1,4 +1,15 @@
 [
+
+  {
+    "id": "nike1",
+"productName": "Nike Air Max 270",
+"graphicName": "air_max_270.png",
+"costPrice": 80.0,
+"msrp": 150.0,
+"qtyOnHand": 100,
+"qtyOnBackOrder": 5,
+"description": "Classic Nike sneakers with Air Max cushioning."
+  },
   {
     "id": "nike2",
     "productName": "Nike Zoom Pegasus 38",
